@@ -1,0 +1,33 @@
+body {
+    font-family: 'Lucida Grande', sans-serif;
+    background-color: gainsboro;
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+    border: 2px solid darkolivegreen;
+    width: auto;
+    margin: 0 auto;
+}
+
+h2 {
+    color: darkgreen;
+    background-color: darkgrey;
+    text-align: center;
+}
+
+thead {
+    background-color: palegreen;
+}
+
+td {
+    border: 1px solid darkolivegreen;
+}
+
+.code {
+    font-family: monospace;
+    background-color: bisque;
+}
